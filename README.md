@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**Welcome to my github page 😃**
+
 I am MR or **Ray** from Arak, Iran. I'm a CE student, passionate about AI and security 💻 I'm an experienced python programmer for two years, DevOps enthusiastic And a fan of linux and open-source community 😃 I'm also interested in web developing with Django framework and React on my free times. I love anime and indie games 🎮 I usually listen to metal and rock music 🤘 And I recently started playing electric guitar 🎸
 
 ### Programming Languages 🌐
