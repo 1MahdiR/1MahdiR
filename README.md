@@ -37,7 +37,7 @@ You can find and get touch with me on these accounts!
 
 ### Contact 📨
 
-[![Email](https://travis-ci.org/gmailgem/gmail.svg)](mailto:a.m.rasouli.n@gmail.com)
+[![Email](https://img.shields.io/badge/Leave%20a%20message-a.m.rasouli.n%40gmail.com-red)](mailto:a.m.rasouli.n@gmail.com)
 
 ---
 ⭐️ Please give me a star if my github page could help you.
