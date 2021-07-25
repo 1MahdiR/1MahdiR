@@ -31,7 +31,7 @@ I am MR or **Ray** from Arak, Iran. I'm a CE student, passionate about AI and se
 You can find and get touch with me on these accounts!
 
 | [<img src="images/github.png" alt="github logo" width="34">](https://github.com/1MahdiR) | [<img src="images/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/__mr__) | [<img src="images/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/amir-mahdi-rasouli-39566a143/) |
-|---|---|---|---|
+|---|---|---|
 
 ### Contact 📨
 
