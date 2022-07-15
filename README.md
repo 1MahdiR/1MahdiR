@@ -2,7 +2,7 @@
 
 **Welcome to my github page 😃**
 
-I'm Amir-Mahdi Rasouli, a 21-year-old computer engineering student and an experienced python programmer and web developer for 3 years. I love Indie games 🎮 Linux and open-source commiunity 🐧 Network and cybersecurity 🛡️ metal and rock music 🤘
+I'm Amir-Mahdi Rasouli, a 21-year-old computer engineering student and an experienced Python programmer and web developer for 3 years. I love indie games 🎮 Linux and open-source commiunity 🐧 network and cybersecurity 🛡️ metal and rock music 🤘
 
 ### Contact 📨
 
