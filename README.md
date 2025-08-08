@@ -2,7 +2,7 @@
 
 **Welcome to my github page 😃**
 
-I'm Amir Mahdi Rasouli, a 23-year-old computer engineering student and an experienced Python programmer and web developer for more than 5 years. I love indie games 🎮 Linux and open-source commiunity 🐧 network and cybersecurity 🛡️ metal and rock music 🤘
+I'm Amir Mahdi Rasouli, a 24-year-old computer engineering student and an experienced Python programmer and web developer for more than 5 years. I love indie games 🎮 Linux and open-source commiunity 🐧 network and cybersecurity 🛡️ metal and rock music 🤘
 I'm currently pursuing my Master's degree in Computer Architecture at Sharif University of Technology. My research focuses on cyber-physical systems, edge computing, and the Internet of Things. 🌐
 
 ### Contact 📨
